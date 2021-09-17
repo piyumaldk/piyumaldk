@@ -1,16 +1,22 @@
-### Hi there 👋
+### Hey 👋, I'm Piyumal Kularathna
 
-<!--
-**piyumaldk/piyumaldk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- ❤️ Google Summer of Code 2021
+- 🎓 Univeristy of Colombo School of Computing
+- 🏫 Bandaranayake College - Gampaha 
 
-Here are some ideas to get you started:
+<img src="https://media.giphy.com/media/KxbZ21Jnz4YdaLN2co/giphy.gif?cid=ecf05e47dnnanvlfyx0c4pskss8h7nf043qdgn97tprm33ui&rid=giphy.gif&ct=s" width="120">
+<img src="https://media.giphy.com/media/KxbZ21Jnz4YdaLN2co/giphy.gif?cid=ecf05e47dnnanvlfyx0c4pskss8h7nf043qdgn97tprm33ui&rid=giphy.gif&ct=s" width="120">
+<img src="https://media.giphy.com/media/KxbZ21Jnz4YdaLN2co/giphy.gif?cid=ecf05e47dnnanvlfyx0c4pskss8h7nf043qdgn97tprm33ui&rid=giphy.gif&ct=s" width="120">
+<img src="https://media.giphy.com/media/KxbZ21Jnz4YdaLN2co/giphy.gif?cid=ecf05e47dnnanvlfyx0c4pskss8h7nf043qdgn97tprm33ui&rid=giphy.gif&ct=s" width="120">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Piyumal's Github Stats](https://github-readme-stats.vercel.app/api?username=piyumaldk&count_private=true&show_icons=true&include_all_commits=true&theme=radical)
+
+
+
+
+
+
+
+
+
+
