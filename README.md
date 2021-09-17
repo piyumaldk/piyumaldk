@@ -1,4 +1,4 @@
-<img align="right" src="https://media.giphy.com/media/KxbZ21Jnz4YdaLN2co/giphy.gif?cid=ecf05e47dnnanvlfyx0c4pskss8h7nf043qdgn97tprm33ui&rid=giphy.gif&ct=s" width="120">
+<img align="right" src="https://media.giphy.com/media/KxbZ21Jnz4YdaLN2co/giphy.gif?cid=ecf05e47dnnanvlfyx0c4pskss8h7nf043qdgn97tprm33ui&rid=giphy.gif&ct=s" width="270">
 
 ### Hey 👋, I'm Piyumal Kularathna
 
